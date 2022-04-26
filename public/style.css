@@ -388,6 +388,7 @@ ul {
   font-size:19px;
   font-family:Helvetica;
   padding-right:150px;
+
 }
 
 .company{
@@ -638,6 +639,11 @@ textarea {
     width: 100%;
   }
 
+  .endless .end1{
+    width:100%;
+    margin:top 0px bottom 0px;
+  }
+
   .aboutus p {
     margin-right: -50px;
     margin-left: -50px;
@@ -657,6 +663,10 @@ textarea {
 
   .teams img{
     object-fit:scale-down;
+  }
+
+  .testimoni .container .boy{
+    width:70%;
   }
 
 }
